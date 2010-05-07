@@ -14,6 +14,7 @@
 Auto-Execute:
 	SetWorkingDir, %A_ScriptDir%
 	Menu, Tray, Icon, , , 1
+	Menu, Tray, Tip, LazyF1
 	exit
 
 $*F1::
